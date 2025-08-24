@@ -1,16 +1,8 @@
 # PinkByte Website Redesign
 
-A modern, professional redesign of the PinkByte website built with React and Node.js.
+Redesign of the PinkByte website built with React and Node.js.
 
 https://pinkbyteredesign-rjf7imroo-ches-projects-d5f38fe6.vercel.app/
-
-## ✨ What This Is
-
-A clean, elegant website showcasing PinkByte's technology solutions with:
-- Modern, responsive design
-- Contact form functionality
-- Professional UI/UX
-- Easy to customize and deploy
 
 ## 🚀 Quick Start
 
@@ -59,14 +51,3 @@ PinkbyteRedesign/
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
-- **Storage**: In-memory (no database needed)
-
-## 📝 Notes
-
-- Contact form messages are stored in memory (reset when server restarts)
-- All images are in `frontend/public/`
-- Easy to customize colors and content in the component files
-
----
-
-**PinkByte Technologies, Inc.** - Imagine, produce and deliver.
